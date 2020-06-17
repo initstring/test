@@ -1,3 +1,3 @@
 # test
 
-Hi there <script>alert(1);</script>
+Hi there ＜script＞alert(1);＜/script＞
